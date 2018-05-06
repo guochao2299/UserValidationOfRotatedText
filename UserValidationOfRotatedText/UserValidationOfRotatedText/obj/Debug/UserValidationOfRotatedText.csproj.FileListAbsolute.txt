@@ -1,0 +1,8 @@
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\obj\Debug\UserValidationOfRotatedText.csprojResolveAssemblyReference.cache
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\obj\Debug\UserValidationOfRotatedText.frmMain.resources
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\obj\Debug\UserValidationOfRotatedText.Properties.Resources.resources
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\obj\Debug\UserValidationOfRotatedText.csproj.GenerateResource.Cache
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\bin\Debug\UserValidationOfRotatedText.exe
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\bin\Debug\UserValidationOfRotatedText.pdb
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\obj\Debug\UserValidationOfRotatedText.exe
+E:\C#Programs\UserValidationOfRotatedText\UserValidationOfRotatedText\obj\Debug\UserValidationOfRotatedText.pdb
